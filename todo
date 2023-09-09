@@ -1,0 +1,7 @@
+Todo:
+	- test the server, sql integration
+	- package the server
+
+Dependencies:
+	- aiohttp
+	- pyyaml
